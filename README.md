@@ -112,3 +112,35 @@ Key visualizations include:
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/gurgaon-real-estate-analysis.git
+
+
+
+  Install dependencies:
+  pip install pandas matplotlib seaborn
+
+
+
+ Open Jupyter Notebook:
+ jupyter notebook
+
+
+Run all cells to reproduce the analysis.
+
+
+
+📌 Future Improvements
+
+Add price prediction models
+Create interactive dashboards (Streamlit / Power BI)
+Include geospatial analysis
+Add time-based price trends
+
+
+👤 Author
+Aakash Harit
+Data Analyst | Market & Real Estate Analytics
+
+📄 License
+This project is intended for educational and analytical purposes.
+Dataset credit belongs to the original Kaggle contributor.
+
