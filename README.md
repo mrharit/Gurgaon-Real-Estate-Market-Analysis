@@ -124,19 +124,19 @@ Key visualizations include:
  jupyter notebook
 
 
-Run all cells to reproduce the analysis.
+ Run all cells to reproduce the analysis.
 
 
 
 📌 Future Improvements
 
-Add price prediction models
-Create interactive dashboards (Streamlit / Power BI)
-Include geospatial analysis
-Add time-based price trends
+- Add price prediction models
+- Create interactive dashboards (Streamlit / Power BI)
+- Include geospatial analysis
+- Add time-based price trends
 
 
-👤 Author
+👤 Author:
 Aakash Harit
 Data Analyst | Market & Real Estate Analytics
 
